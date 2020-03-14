@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 
 # -*- coding: utf-8 -*-
 import dash
@@ -63,14 +63,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
                                                                                 
     }),
 
-    # html.A(html.Button('Ссылочка на мой ВК', id='button'), href= 'https://vk.com/id168650172', style={
-    #   'margin-top': '30px',
-    #   'margin-bottom': '30px',
-    #   'margin-right': '500px',
-    #   'margin-left': '500px'
-    
-                                                                                
-    #}),
+  
 
     html.Div([
         html.Img(src='https://sun9-44.userapi.com/c857628/v857628649/9660f/k6oBj8RJ1VQ.jpg', style={
